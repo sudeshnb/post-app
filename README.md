@@ -44,7 +44,7 @@ The minimum hardware and software requirement specifications for using this appl
 
 
 
-# Developed by  ONYXSIS Pvt limited 
+# Developed by  ONYXSIO Pvt limited 
 
 
 <img src="https://user-images.githubusercontent.com/33403844/169867165-d2e123ea-d9c2-4325-93cf-189f399fe8b9.png" width="200" height="200">
