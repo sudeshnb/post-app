@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273218247892",
+    "project_id": "poetic-app",
+    "storage_bucket": "poetic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273218247892:android:c42966673e3899ff332f41",
+        "android_client_info": {
+          "package_name": "com.poetic.poetic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273218247892-o0t26qqnpl627c32ql7eli0hrhuei5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-phWzck4zPpFu78dAPt2blmyoH5WGo14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273218247892-o0t26qqnpl627c32ql7eli0hrhuei5f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+[
+{
+"name": "Write",
+"code": 0,
+"isClick": false
+},
+{
+"name": "Poetry",
+"code": 1,
+"isClick": false
+},
+{
+"name": "Compose",
+"code": 2,
+"isClick": false
+},
+{
+"name": "Publish",
+"code": 3,
+"isClick": false
+},
+{
+"name": "Marketing Promote",
+"code": 4,
+"isClick": false
+},
+{
+"name": "Advertise",
+"code": 5,
+"isClick": false
+},
+{
+"name": "Playback Song",
+"code": 6,
+"isClick": false
+},
+{
+"name": "Audio Record",
+"code": 7,
+"isClick": false
+}
+]
